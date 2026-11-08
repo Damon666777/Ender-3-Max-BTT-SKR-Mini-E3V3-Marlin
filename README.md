@@ -1,6 +1,6 @@
-# Marlin Firmware for Ender 3 Max (BTT SKR Mini E3 V3 + CR-Touch + PEI Bed)
+# Marlin Bugfix 2.1.x for Ender 3 Max (BTT SKR Mini E3 V3 + CR-Touch + PEI Bed)
 
-This is a customized, fully tested, and optimized **Marlin Firmware** configuration tailored specifically for the **Creality Ender 3 Max** upgraded with the **BigTreeTech SKR Mini E3 V3** mainboard. 
+This is a customized, fully tested, and optimized **Marlin Bugfix 2.1.x** configuration tailored specifically for the **Creality Ender 3 Max** upgraded with the **BigTreeTech SKR Mini E3 V3** mainboard. 
 
 It is specifically tuned for a lightweight **PEI magnetic bed** (replacing the heavy stock glass) and higher printing speeds.
 
